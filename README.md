@@ -20,13 +20,13 @@ You can click the Preview link to take a look at your changes.
 
  
  
- ⚡ How to reach me   **:octocat:rukash2001@gmail.com **
+ ⚡ How to reach me   ** :octocat:rukash2001@gmail.com **
                        
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chandru-murugesan-5a701622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chandru-murugesan-5a701622b" height="30" width="40" /></a>	&nbsp;
-<a href="https://instagram.com/https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=user_system_sheet&utm_content=92xzd83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=user_system_sheet&utm_content=92xzd83" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rukash-470603207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rukash-470603207/" height="30" width="40" /></a>	&nbsp;
+<a href="https://www.instagram.com/rj_rukash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rj_rukash/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,96 +34,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-# **💡COMPLETED PROJECT AND TASKS**
-
-# **💬IDEATION PHASE**
-<button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Ideation%20Phase ">CLICK HERE!  </a>
-</button>
-
-   **🧠Brain strom and Ideation**  
-    
-   **📟Empathy Map:**   
-
-   **💬Literature survey**   
-       
-             
-   **🧮PROBLEM STATEMENT**     
-     
-
-# **💡Project design phase 1**
-<button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Design%20Phase-1   ">CLICK HERE!  </a>
-</button>
-
-   **💬Problem solution**  
-
-   **⚠️proposed solution**           
-   
-   **⚓Solution architecture**   
-                      
-    
-# **💡Project design phase 2**
-<button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Design%20Phase-2   ">CLICK HERE!  </a>
-</button>
-
-   **📝Data flow digrams and user stories**  
-
-   **🎯functional requirments**        
-    
-   **🧩Technology stack**   
-              
-   **🧮User journry**    
-   
-# **💬Project Planning Phase**
-<button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Planning%20Phase ">CLICK HERE!  </a>
-</button>
-
-   **🚩Milestone and Activity List**  
-    
-   **♻️Sprint Delivery Plan**   
-
-# **💬Setting up Application Environment**
-<button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Setting%20Up%20Application%20Evironment ">CLICK HERE!  </a>
-</button>
-
-   **🖥️Create Flask Project**  
-    
-   **🔌Docker CLI Installation**
-   
-   **📫Install IBM Cloud CLI**  
-
-# **💬Project Development Phase**
-<button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project%20Development ">CLICK HERE!  </a>
-</button>
-
-   **🚩Sprint 1**  
-    
-   **🚩Sprint 2**  
-   
-   **🚩Sprint 3**  
-    
-   **🚩Sprint 4**
-
-    
-# **🛒ASSIGNMENT**
-
-   **🧷ASSIGNMENT-1️⃣**  &nbsp;	&nbsp;<button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-1(chandru).pdf   ">CLICK HERE!  </a>
-</button>
-   <br> **🧷ASSIGNMENT-2️⃣**&nbsp;	&nbsp; <button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-2(Chandru).pdf  ">CLICK HERE!  </a>
-     </button>
-   <br> **🧷ASSIGNMENT-3️⃣** &nbsp;	&nbsp;<button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-3(Chandru).pdf  ">CLICK HERE!  </a>
-</button>
-   <br> **🧷ASSIGNMENT-4️⃣**&nbsp;	&nbsp; <button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-4(Chandru).pdf   ">CLICK HERE!  </a>
-</button>
 
 
 <br>
@@ -131,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.gif" alt="🙏" width="32" height="32">
-</picture> Contribution :</h2>
+</picture> Your's Faithfully:</h2>  
 
 
 
@@ -152,4 +62,4 @@ You can click the Preview link to take a look at your changes.
  <h5> Made with <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
-</picture> in India🏳️‍🌈 | <b>pollachi institute of Engineering and technology College</b> </h5>
+</picture> in India🏳️‍🌈 <b></b> </h5>
