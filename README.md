@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.gif" alt="🙏" width="32" height="32">
-</picture> Your's Faithfully: 🆁🆄🅺🅰🆂🅷</h2>  
+</picture> Your's Faithfully : 🆁🆄🅺🅰🆂🅷</h2>  
 
 
 
