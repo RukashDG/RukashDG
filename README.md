@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RukashDG
+- 👋 Hi, I’m 🆁🆄🅺🅰🆂🅷
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🎈 Fun fact: 
+- 📧 How to reach me Rukash2001@gmail.com
 
 <!---
 RukashDG/RukashDG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,12 +38,14 @@ You can click the Preview link to take a look at your changes.
 
 
 <br>
- <h2>
+ <h2>  Your's Faithfully   
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.gif" alt="🙏" width="32" height="32">
-</picture> Your's Faithfully : </h2>
-          <img src="https://github.com/RukashDG/Git-Repo-Collections/blob/main/Git%20Hub_Ruki/Icon%20Collections/Icons/Rukash/text.gif" alt="Rukash"/> 
+</picture>     </h2>
+<img src="https://github.com/RukashDG/Git-Repo-Collections/blob/main/Git%20Hub_Ruki/Icon%20Collections/Icons/Rukash/text.gif" alt="Rukash" width="100" height="30"/>
+   
+          
 
 
 
