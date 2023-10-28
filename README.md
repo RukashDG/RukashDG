@@ -1,7 +1,6 @@
 - 👋 Hi, I’m 🆁🆄🅺🅰🆂🅷
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 🎈 Fun fact: 
+- 👀 I’m interested in Ruby
+- 🎈 Fun fact: Smile pls
 - 📧 How to reach me Rukash2001@gmail.com
 
 <!---
@@ -53,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">  -->
 
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
