@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 🆁🆄🅺🅰🆂🅷
 - 👀 I’m interested in Ruby
-- 🎈 Fun fact: Smile pls
+- 🎈 Fun fact: When you Smiled at last? You can Smile now!
 - 📧 How to reach me Rukash2001@gmail.com
 
 <!---
