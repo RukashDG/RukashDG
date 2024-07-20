@@ -37,12 +37,12 @@ You can click the Preview link to take a look at your changes.
 
 
 <br>
- <h2>  Your's Faithfully   
+ <h2>  Hi There, Thanks for Visiting   
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.gif" alt="🙏" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64f_1f3fd/512.gif" alt="😊" width="32" height="32">
 </picture>     </h2>
-<img src="https://github.com/RukashDG/Git-Repo-Collections/blob/main/Git%20Hub_Ruki/Icon%20Collections/Icons/Rukash/text.gif" alt="Rukash" width="100" height="30"/>
+<img src="https://github.com/RukashDG/Git-Repo-Collections/blob/main/Git%20Hub_Ruki/Icon%20Collections/Icons/Rukash/text.gif" alt="Happy Coding" width="100" height="30"/>
    
           
 
