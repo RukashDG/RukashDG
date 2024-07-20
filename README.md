@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
  <a href="https://twitter.com/Rj_Rukash" target="blank"><img align="center" src="https://github.com/RukashDG/Git-Repo-Collections/blob/main/Git%20Hub_Ruki/Icon%20Collections/images/icons/Social/twitter.svg" alt="https://twitter.com/Rj_Rukash" height="30" width="40" /></a>	&nbsp;
 <a href="https://www.linkedin.com/in/rukash-470603207/" target="blank"><img align="center" src="https://github.com/RukashDG/Git-Repo-Collections/blob/main/Git%20Hub_Ruki/Icon%20Collections/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rukash-470603207/" height="30" width="40" /></a>	&nbsp;
-<a href="https://www.instagram.com/rj_rukash/" target="blank"><img align="center" src="https://github.com/RukashDG/Git-Repo-Collections/blob/main/Git%20Hub_Ruki/Icon%20Collections/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rj_rukash/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rukash.24_/" target="blank"><img align="center" src="https://github.com/RukashDG/Git-Repo-Collections/blob/main/Git%20Hub_Ruki/Icon%20Collections/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rukash.24_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
