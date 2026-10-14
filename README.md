@@ -1,7 +1,4 @@
 - 👋 Hi, I’m 🆁🆄🅺🅰🆂🅷
-- 👀 I’m interested in explore codes
-- 🎈 Fun fact: When you Smiled at last? You can Smile now!
-- 📧 How to reach me Rukash2001@gmail.com
 - ➡️ <a href="https://rukash-portfolio.netlify.app/"><b>Rukash's Folio</b></a> :)
   <!--- Dev_Folio:-https://rukash-portfolio.netlify.app/ -->
   
