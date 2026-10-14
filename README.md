@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 🆁🆄🅺🅰🆂🅷
-- ➡️ <a href="https://rukash-portfolio.netlify.app/"><b>Rukash's Folio</b></a> :)
+- ➡️ <a href="https://rukash-portfolio.netlify.app/"><b>Rukash's portfolio</b></a> :)
   <!--- Dev_Folio:-https://rukash-portfolio.netlify.app/ -->
   
   
